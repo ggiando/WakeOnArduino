@@ -1,1 +1,3 @@
-# WakeOnArduino
+# Control ESP8266 GPIOs from Anywhere in the World for Power On your computer
+
+Learn how to control your ESP8266 GPIOs from anywhere in the world. This can be very useful to control a PC, a server, or any device remotely supported the WAKE ON LAN. This project is also very versatile, through your cloud dashboard you can easily control more outputs only adding a MAC from the site (without uploading new code to your board).
